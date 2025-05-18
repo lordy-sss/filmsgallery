@@ -1,0 +1,49 @@
+body {
+    font-family: "Anonymous Pro";
+    background-color: #67BBCE;
+}
+h1 {
+text-align: center;
+background-color: #FFBD7B;
+color:#156678;
+padding:20px;
+font-size: 60px;
+margin-top: 5px;
+}
+h2 {
+text-align: left;
+
+color:#156678;
+}
+
+p {
+background-color: #FFBD7B;
+color:#156678;
+padding:20px;
+font-size: 20px;
+}
+
+img {
+height: 300px;
+margin-bottom: 60px;
+}
+
+a href {
+margin-top: 50px;
+}
+b { 
+border: #2d7d8f solid 5px;
+padding: 10px;
+background-color: #156678;
+border-radius: 100px;
+}
+
+.link {
+  text-decoration: none;
+  color:black;
+font-size: 20px;
+}
+br{
+text-align: center;
+
+}
